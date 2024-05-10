@@ -1,0 +1,140 @@
+name: smartlinx
+description: "SmartLinx"
+
+publish_to: 'none'
+
+version: 1.2.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_screenutil: ^5.9.0
+  lottie: ^3.0.0
+  flutter_onboarding_slider: ^1.0.11
+  flutter_animate: ^4.4.0
+  flutter_svg: ^2.0.9
+  loading_animation_widget: ^1.2.0+4
+  google_nav_bar: ^5.0.6
+  permission_handler: ^11.2.0
+  mobile_scanner: ^2.1.0
+  shared_preferences: ^2.2.2
+  sliding_up_panel: ^2.0.0+1
+  day_night_time_picker: ^1.3.0+1
+  liquid_pull_to_refresh: ^3.0.1
+  smooth_page_indicator: ^1.1.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  weather: ^3.1.1
+  http: ^1.2.0
+  firebase_storage: ^11.6.6
+  image_picker: ^1.0.7
+  google_generative_ai: ^0.2.2
+  hive_generator: ^2.0.1
+  popover: ^0.3.0
+  firebase_core: ^2.27.0
+  google_sign_in: ^6.2.1
+  firebase_auth: ^4.17.8
+  vibration: ^1.8.4
+  intl: ^0.19.0
+  animated_digit: ^3.2.3
+  cached_network_image: ^3.3.1
+  flutter_native_splash: ^2.4.0
+  flutter_facebook_auth: ^6.2.0
+  flutter_wear_os_connectivity: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.1.5
+  flutter_launcher_icons: "^0.13.1"
+  flutter_lints: ^3.0.1
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/logo/logo.png"
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  fonts:
+    - family: SFProDisplay
+      fonts:
+        - asset: assets/fonts/SFPRODISPLAYBLACKITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYBOLD.OTF
+        - asset: assets/fonts/SFPRODISPLAYHEAVYITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYLIGHTITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYMEDIUM.OTF
+        - asset: assets/fonts/SFPRODISPLAYREGULAR.OTF
+        - asset: assets/fonts/SFPRODISPLAYSEMIBOLDITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYTHINITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYULTRALIGHTITALIC.OTF
+
+  assets:
+    - assets/images/onboarding1.png
+    - assets/images/onboarding2.png
+    - assets/images/onboarding3.png
+    - assets/images/Home.png
+    - assets/svg/google.svg
+    - assets/svg/apple.svg
+    - assets/svg/facebook.svg
+    - assets/svg/mail.svg
+    - assets/images/addhome.png
+    - assets/images/haiFinito.png
+    - assets/images/rain.png
+    - assets/svg/map_pin.svg
+    - assets/images/generic_user.png
+    - assets/svg/scan.svg
+    - assets/svg/scan_area.svg
+    - assets/lottie/check.json
+    - assets/images/hub.png
+    - assets/svg/Broken_heart.svg
+    - assets/svg/light.svg
+    - assets/images/finito.png
+    - assets/images/stanza_letto_1.png
+    - assets/svg/camera.svg
+    - assets/images/lamp.png
+    - assets/images/orange.png
+    - assets/images/purple.png
+    - assets/svg/plug.svg
+    - assets/svg/thermo.svg
+    - assets/images/plug_on.png
+    - assets/images/plug_off.png
+    - assets/lottie/mail.json
+    - assets/svg/temperature.svg
+    - assets/svg/humidity.svg
+    - assets/lottie/light_bulb.json
+    - assets/lottie/light_found.json
+    - assets/svg/light_bulb.svg
+    - assets/lottie/clear-night.json
+    - assets/lottie/cloudy-day.json
+    - assets/lottie/cloudy-night.json
+    - assets/lottie/fog-day.json
+    - assets/lottie/fog-night.json
+    - assets/lottie/partial-cloudy-day.json
+    - assets/lottie/partial-cloudy-night.json
+    - assets/lottie/rain-day.json
+    - assets/lottie/snow-day.json
+    - assets/lottie/snow-night.json
+    - assets/lottie/storm-day.json
+    - assets/lottie/storm-night.json
+    - assets/lottie/clear-day.json
+    - assets/lottie/rain-night.json
+    - assets/images/bot.jpg
+    - assets/lottie/edithome.json
+    - assets/svg/house.svg
+    - assets/svg/house-interior.svg
+    - assets/images/hub-offline.png
+    - assets/lottie/error.json
+    - assets/lottie/plug.json
+    - assets/lottie/thermometer.json
+    - assets/svg/smart-plug.svg
+    - assets/svg/thermometer.svg

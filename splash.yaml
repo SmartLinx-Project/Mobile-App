@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "FFFFFF"
+  color_dark: "010101"
+  image: assets/images/logo_nobg.png
+  image_dark: assets/images/logo_nobg.png
+
+  android_12:
+    color: "FFFFFF"
+    color_dark: "010101"
+    image: assets/images/logo_nobg.png
+    image_dark: assets/images/logo_nobg.png
+    android_gravity: scaleAspectFit
+
+    web: false
