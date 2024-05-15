@@ -13,6 +13,7 @@ This repository contains a Flutter-based mobile application designed to manage s
 - [Contributing](#contributing-)
 
 ## Overview 🌟
+![SmartLinx](https://firebasestorage.googleapis.com/v0/b/smartlinx-f5fb1.appspot.com/o/Download.png?alt=media&token=01fc9e73-23e1-4b5a-8d55-3e48d0601a38)
 
 The SmartLinx app allows users to control and monitor their smart devices effortlessly. The app supports a wide range of devices, providing a unified interface for managing all your smart home gadgets.
 
