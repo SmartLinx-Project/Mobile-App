@@ -5,12 +5,12 @@ This repository contains a Flutter-based mobile application designed to manage s
 
 ## Table of Contents 📋
 
-- [Overview](#overview-🌟)
-- [Features](#features-✨)
-- [Requirements](#requirements-🛠️)
-- [Installation](#installation-📥)
-- [Usage](#usage-🚀)
-- [Contributing](#contributing-🤝)
+- [Overview](#overview-)
+- [Features](#features-)
+- [Requirements](#requirements-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
 
 ## Overview 🌟
 
