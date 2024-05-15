@@ -7,7 +7,7 @@ This repository contains a Flutter-based mobile application designed to manage s
 
 - [Overview](#overview-)
 - [Features](#features-)
-- [Requirements](#Requirements-)
+- [Requirements](#requirements-)
 - [Installation](#installation-)
 - [Usage](#usage-)
 - [Contributing](#contributing-)
