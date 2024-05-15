@@ -1,16 +1,16 @@
-# SmartLinx Mobile App🚀
+# SmartLinx Mobile App 🚀
 
 This repository contains a Flutter-based mobile application designed to manage smart devices on both Android and iOS platforms.
 
 ## Table of Contents 📋
 
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#overview-)
+- [Features](#features-)
+- [Requirements](#requirements-)
+- [Installation](#installation-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [License](#license-)
 
 ## Overview 🌟
 
