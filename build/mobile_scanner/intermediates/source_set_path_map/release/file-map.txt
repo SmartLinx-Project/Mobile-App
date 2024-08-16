@@ -1,0 +1,17 @@
+dev.steenbakker.mobile_scanner-jetified-camera-core-1.1.0-0 C:\Users\anes_\.gradle\caches\transforms-3\0878eaeeb490be7554faf4a4216a2763\transformed\jetified-camera-core-1.1.0\res
+dev.steenbakker.mobile_scanner-jetified-annotation-experimental-1.1.0-1 C:\Users\anes_\.gradle\caches\transforms-3\0ee9e38e81120acb405b16317f88005e\transformed\jetified-annotation-experimental-1.1.0\res
+dev.steenbakker.mobile_scanner-jetified-camera-camera2-1.1.0-2 C:\Users\anes_\.gradle\caches\transforms-3\3887a674896d8eb64b8bfe8b0a1244e0\transformed\jetified-camera-camera2-1.1.0\res
+dev.steenbakker.mobile_scanner-jetified-window-java-1.0.0-beta04-3 C:\Users\anes_\.gradle\caches\transforms-3\52327bdbb6080289c26b0e652865ef2f\transformed\jetified-window-java-1.0.0-beta04\res
+dev.steenbakker.mobile_scanner-jetified-window-1.0.0-beta04-4 C:\Users\anes_\.gradle\caches\transforms-3\78fbd64af62dbdf102ba7c817970421b\transformed\jetified-window-1.0.0-beta04\res
+dev.steenbakker.mobile_scanner-core-1.6.0-5 C:\Users\anes_\.gradle\caches\transforms-3\7c1d12144b2ebda7a6da3814a09658ad\transformed\core-1.6.0\res
+dev.steenbakker.mobile_scanner-jetified-play-services-basement-18.0.0-6 C:\Users\anes_\.gradle\caches\transforms-3\7e7f11953456b38a2577e618318830d0\transformed\jetified-play-services-basement-18.0.0\res
+dev.steenbakker.mobile_scanner-jetified-play-services-base-18.0.1-7 C:\Users\anes_\.gradle\caches\transforms-3\88ae18fc073d92c7d12004ac2835ad41\transformed\jetified-play-services-base-18.0.1\res
+dev.steenbakker.mobile_scanner-jetified-camera-lifecycle-1.1.0-8 C:\Users\anes_\.gradle\caches\transforms-3\c03566b237961f259bd069810f6850a7\transformed\jetified-camera-lifecycle-1.1.0\res
+dev.steenbakker.mobile_scanner-main-9 C:\Users\anes_\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-2.1.0\android\src\main\res
+dev.steenbakker.mobile_scanner-release-10 C:\Users\anes_\AppData\Local\Pub\Cache\hosted\pub.dev\mobile_scanner-2.1.0\android\src\release\res
+dev.steenbakker.mobile_scanner-pngs-11 C:\Users\anes_\SynologyDrive\Scuola\Organizzazione e Impresa\Progetto\SmartLinx Mobile\build\mobile_scanner\generated\res\pngs\release
+dev.steenbakker.mobile_scanner-resValues-12 C:\Users\anes_\SynologyDrive\Scuola\Organizzazione e Impresa\Progetto\SmartLinx Mobile\build\mobile_scanner\generated\res\resValues\release
+dev.steenbakker.mobile_scanner-rs-13 C:\Users\anes_\SynologyDrive\Scuola\Organizzazione e Impresa\Progetto\SmartLinx Mobile\build\mobile_scanner\generated\res\rs\release
+dev.steenbakker.mobile_scanner-mergeReleaseResources-14 C:\Users\anes_\SynologyDrive\Scuola\Organizzazione e Impresa\Progetto\SmartLinx Mobile\build\mobile_scanner\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.steenbakker.mobile_scanner-mergeReleaseResources-15 C:\Users\anes_\SynologyDrive\Scuola\Organizzazione e Impresa\Progetto\SmartLinx Mobile\build\mobile_scanner\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.steenbakker.mobile_scanner-merged_res-16 C:\Users\anes_\SynologyDrive\Scuola\Organizzazione e Impresa\Progetto\SmartLinx Mobile\build\mobile_scanner\intermediates\merged_res\release
