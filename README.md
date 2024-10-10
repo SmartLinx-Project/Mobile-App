@@ -1,58 +1,87 @@
-# SmartLinx
+# 🌐 SmartLinx: Smart Home Control App
 
-Progetto app android & ios smart home
+![SmartLinx Cover](https://firebasestorage.googleapis.com/v0/b/smartlinx-f5fb1.appspot.com/o/ThumbnailMockup.png?alt=media&token=b0204d4e-d317-4efa-9f65-689c97d6cfee)
 
-## Coding Guide
 
-Organizzazione delle Cartelle:
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFC107?style=for-the-badge&logo=hive&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
-    Crea una cartella "pages" che contenga sottocartelle per ciascuna pagina dell'app.
-    Ogni sottocartella deve contenere il file della pagina (es. home_page.dart) e una cartella "widget" con tutti i widget utilizzati in quella pagina (es. weather_wid.dart).
-  
-  Mantenere il Codice Pulito:
 
-    Presta attenzione a mantenere il codice pulito per evitare incasinamenti.
-    Cerca di mantenere un codice semplice non troppo intricato.
-    Il codice deve essere scritto interamente in inglese
-    
-Struttura delle Pagine:
 
-    Dividi ogni pagina in widget per ridurre il numero di righe in ciascuna classe.
-    Cerca di rendere il codice più leggibile, separando le parti logiche da quelle grafiche quando possibile.
-    
-Divisione Codice Logico e Grafico:
+## 🏠 Overview
+SmartLinx is a comprehensive smart home management app built with *Dart, **Flutter, **MySQL, and **Hive. It allows you to control and automate your smart devices via the **MQTT* protocol, enabling management of devices like *smart bulbs, **smart plugs, **thermostats*, and more—all from a single app!
 
-    Divide il codice della parte grafica da quello della parte logica.
-    Ad esempio, nella classe "devices", utilizza:
-    devices_page.dart per la parte grafica.
-    devices_logic.dart per la parte logica.
-    widget/device_wid.dart per i widget specifici.
-    
-    
-Gestione delle Versioni:
+- *Platforms*: Android & iOS
+- *Database*: MySQL, Hive (for local storage)
+- *Communication Protocol*: MQTT
 
-    Dopo ogni sessione di codifica, esegui un breve debug e verifica che tutto sia corretto.
-    Esegui push e commit su GitHub per mantenere il repository aggiornato.
+Check the full list of supported devices [here](https://www.zigbee2mqtt.io/supported-devices/).
 
-Segnalazione di Problemi:
+---
 
-    In caso di problemi o bug, inserisci commenti esplicativi nel codice.
-    Usa commenti per indicare le sezioni che richiedono attenzione o correzioni.
-    
-    
-Commenti Iniziali:
+## ✨ Features
+- 🌐 *Device Management*: Control a wide range of smart home devices.
+- 🔧 *MQTT Protocol*: Real-time communication with smart devices.
+- 📝 *Data Management*: Uses Hive for local storage and MySQL for secure persistence.
+- 🎨 *Customizable Themes*: Light and dark mode support for a personalized experience.
+- ⚙ *Automation*: Set up routines and schedules for smart devices.
 
-    Inizia ogni classe con un commento che includa:
-    Il nome della classe.
-    Una breve spiegazione di cosa fa la classe.
-    Lo stato attuale della classe (in fase di lavorazione, completato, necessario debug, ecc.).
+---
 
-Riciclaggio dei Widget:
+## 🚀 Installation
 
-    Cerca di utilizzare il riciclaggio dei widget per ridurre la ridondanza del codice.
-    Crea widget riutilizzabili che possono essere impiegati più volte nell'app.
-    
-Colori e temi:
+### Prerequisites
+- *Flutter SDK*: Make sure you have Flutter installed. You can download it [here](https://flutter.dev/docs/get-started/install).
+- *Dart*: Included with Flutter SDK.
+- *Git*: Ensure Git is installed for cloning the repository.
 
-    Ogni singolo tema e TextStyle | TextTheme utilizzato all'interno dell'app deve essere riconducibile alla classe Theme che ne definisce le proprietà, in modo tale da aver accesso         
-    all'interscambiabilità dei temi
+### Clone the Repository
+To get started with SmartLinx, clone the repository by running the following command:
+
+bash
+git clone https://github.com/SmartLinx-Project/Mobile-App
+
+
+### Navigate to the Project Directory
+bash
+cd mobile-app
+
+
+### Install Dependencies
+Once inside the project directory, install the required dependencies using Flutter's pub tool:
+
+bash
+flutter pub get
+
+
+### Run the App
+After successfully installing the dependencies, run the app on your preferred platform (Android or iOS):
+
+bash
+flutter run
+
+
+Make sure you have an emulator or a physical device connected.
+
+---
+
+## 🎨 Theming & Styles
+- The app comes with built-in support for light and dark themes, which can be easily switched from within the app.
+- All TextThemes and TextStyles are centrally managed to ensure consistent formatting throughout the app.
+
+---
+
+## 📄 Contributions
+We welcome contributions from the community! Feel free to fork the repository, create a new branch, and submit a pull request. Suggestions for new features or improvements are always appreciated.
+
+---
+
+## 🐛 Bug Reporting
+If you find any issues or bugs, open an issue on GitHub with detailed information to help us resolve the problem quickly.
+
+---
+
+### Take control of your smart home with SmartLinx! 🏡
